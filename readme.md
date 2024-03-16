@@ -1,1 +1,1 @@
-# Projeto com foco em estudar/utilizar JS, html e css
+# Projeto com foco em estudar/utilizar JavaScript, html e css
